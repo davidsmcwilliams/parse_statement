@@ -1,28 +1,28 @@
 import sys
 import csv
 import json
-
+from decimal import Decimal
 
 def categorize(description, categories):
     for category in categories:
-        print('Category: {0}'.format(category))
-        for keyword in categories[category]:
-            print('Keyword: {0}'.format(keyword))
+        for keyword in categories[category]["Keywords"]:
             if keyword in description:
                 return category
     else:
-        add_keyword(description)
+        add_keyword(description, categories)
         return categorize(description, categories)
 
 
-def add_keyword(description):
+def add_keyword(description, categories):
     print("Could not find a category for this transaction: {0}".format(description))
     category = input("Enter a category for this transaction: ")
     keyword = input("Enter a keyword to recognize this transaction in the future: ")
 
-    with open('categories.json') as categories_file:
-        categories = json.load(categories_file)
-        categories[category].append(keyword)
+    try:
+        categories[category]["Keywords"].append(keyword)
+    except KeyError:
+        categories[category] = {}
+        categories[category]["Keywords"] = [keyword]
 
 
 class VISATransaction:
@@ -48,6 +48,8 @@ def parse():
     transaction_log = sys.argv[1]
     transaction_type = TRANSACTION_TYPES[sys.argv[2]]
 
+    summary = {}
+
     with open('categories.json') as categories_file:
         categories = json.load(categories_file)
 
@@ -55,10 +57,21 @@ def parse():
         csv_reader = csv.reader(transactions, delimiter=',')
         for line in csv_reader:
             transaction = transaction_type(line)
-            print(transaction.description)
 
             category = categorize(transaction.description, categories)
-            print(category)
+            amount = Decimal(transaction.charges.strip('-$'))
+
+            try:
+                summary[category] += amount
+            except KeyError:
+                summary[category] = amount
+
+    # Remember any changes to the categories and keywords
+    with open('categories.json', 'w') as categories_file:
+        json.dump(categories, categories_file, indent=4)
+
+    for category in summary:
+        print('{:>30}: {:>10}'.format(category, summary[category]))
 
 
 parse()

@@ -1,23 +1,133 @@
 {
-  "Rent": [],
-  "Water": [],
-  "Electricty": [],
-  "Internet": [],
-  "Groceries": [],
-  "Going Out": [],
-  "Laundry": [],
-  "NYC Savings": [],
-  "Homespruce": [],
-  "Retirement": [],
-  "Charity": [],
-  "Burn Money": [],
-  "Coffee Shops": [],
-  "Phone": [],
-  "Rideshare": [],
-  "Health/Hygiene": [],
-  "Savings": [],
-  "Renter's Insurance": [],
-  "Emergency Fund": [],
-  "Zipcar": [],
-  "Subscriptions/Licenses": []
+    "Paycheck": {
+        "Keywords": [
+            "UT Payroll"
+        ],
+        "Type": "Income"
+    },
+    "Rent": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Water": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Electricty": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Internet": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Groceries": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Going Out": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Laundry": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "NYC Savings": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Homespruce": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Retirement": {
+        "Keywords": [
+            "VANGUARD"
+        ],
+        "Type": "Expense"
+    },
+    "Charity": {
+        "Keywords": [
+            "PATREON"
+        ],
+        "Type": "Expense"
+    },
+    "Burn Money": {
+        "Keywords": [
+            "PAYPAL"
+        ],
+        "Type": "Expense"
+    },
+    "Coffee Shops": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Phone": {
+        "Keywords": [
+            "CREDO"
+        ],
+        "Type": "Expense"
+    },
+    "Rideshare": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Health/Hygiene": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Savings": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Renter's Insurance": {
+        "Keywords": [
+            "TRAVELERS INSUR"
+        ],
+        "Type": "Expense"
+    },
+    "Emergency Fund": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Zipcar": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Subscriptions/Licenses": {
+        "Keywords": [
+            "AVID",
+            "LAUGHING SQUID",
+            "NETFLIX",
+            "Spotify"
+        ],
+        "Type": "Expense"
+    },
+    "Transfers": {
+        "Keywords": [
+            "To Loan 0050",
+            "To Share",
+            "HOME BANKING TRANSFER TO MSU FEDERAL"
+        ],
+        "Type": "Expense"
+    },
+    "Fees": {
+        "Keywords": [
+            "Non UFCU ATM Fee"
+        ],
+        "Type": "Expense"
+    },
+    "Cash": {
+        "Keywords": [
+            "ATM Withdrawal"
+        ],
+        "Type": "Expense"
+    },
+    "Electricity": {
+        "Keywords": [
+            "City of Austin"
+        ],
+        "Type": "Expense"
+    }
 }

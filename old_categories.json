@@ -1,0 +1,58 @@
+{
+    "Paycheck": {
+      "Keywords": [
+        "UT Payroll"
+      ],
+      "Type": "Income"
+    },
+    "Rent": [],
+    "Water": [],
+    "Electricty": [],
+    "Internet": [],
+    "Groceries": [],
+    "Going Out": [],
+    "Laundry": [],
+    "NYC Savings": [],
+    "Homespruce": [],
+    "Retirement": [
+        "VANGUARD"
+    ],
+    "Charity": [
+        "PATREON"
+    ],
+    "Burn Money": [
+        "PAYPAL"
+    ],
+    "Coffee Shops": [],
+    "Phone": [
+        "CREDO"
+    ],
+    "Rideshare": [],
+    "Health/Hygiene": [],
+    "Savings": [],
+    "Renter's Insurance": [
+        "TRAVELERS INSUR"
+    ],
+    "Emergency Fund": [],
+    "Zipcar": [],
+    "Subscriptions/Licenses": [
+        "AVID",
+        "LAUGHING SQUID",
+        "NETFLIX",
+        "Spotify"
+    ],
+    "Transfers": [
+        "To Loan 0050",
+        "To Share",
+        "HOME BANKING TRANSFER TO MSU FEDERAL"
+    ],
+    "Fees": [
+        "Non UFCU ATM Fee"
+    ],
+    "Cash": [
+        "ATM Withdrawal"
+    ],
+    "Electricity": [
+        "City of Austin"
+    ]
+}
