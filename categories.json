@@ -18,15 +18,38 @@
         "Type": "Expense"
     },
     "Internet": {
-        "Keywords": [],
+        "Keywords": [
+            "ATT*BILL PAYMENT"
+        ],
         "Type": "Expense"
     },
     "Groceries": {
-        "Keywords": [],
+        "Keywords": [
+            "WALGREENS",
+            "H-E-B"
+        ],
         "Type": "Expense"
     },
     "Going Out": {
-        "Keywords": [],
+        "Keywords": [
+            "ALAMO S LAMAR",
+            "SMOOTHIE KING",
+            "ONE-2-ONE",
+            "SONG LA",
+            "WHICH WICH",
+            "Drink.Well",
+            "WORKHORSE BAR",
+            "MANDOLAS",
+            "UT H&F",
+            "ARAMARK CAMPUS STORE AUSTIN TX",
+            "SAO PAULOS LLC AUSTIN TX",
+            "CHIPOTLE",
+            "TAQUERIA JEFES",
+            "QUIZNOS",
+            "CHICK FIL A",
+            "UNCLE NICKY S ITAL AUSTIN",
+            "BON BON BANH MI"
+        ],
         "Type": "Expense"
     },
     "Laundry": {
@@ -55,12 +78,17 @@
     },
     "Burn Money": {
         "Keywords": [
-            "PAYPAL"
+            "PAYPAL",
+            "YouTube",
+            "UNIVERSITY CO-OP",
+            "WWW.NEWEGG.COM"
         ],
         "Type": "Expense"
     },
     "Coffee Shops": {
-        "Keywords": [],
+        "Keywords": [
+            "STARBUCKS"
+        ],
         "Type": "Expense"
     },
     "Phone": {
@@ -70,11 +98,15 @@
         "Type": "Expense"
     },
     "Rideshare": {
-        "Keywords": [],
+        "Keywords": [
+            "LYFT"
+        ],
         "Type": "Expense"
     },
     "Health/Hygiene": {
-        "Keywords": [],
+        "Keywords": [
+            "I CLIPS"
+        ],
         "Type": "Expense"
     },
     "Savings": {
@@ -92,7 +124,9 @@
         "Type": "Expense"
     },
     "Zipcar": {
-        "Keywords": [],
+        "Keywords": [
+            "ZIPCAR"
+        ],
         "Type": "Expense"
     },
     "Subscriptions/Licenses": {
@@ -100,7 +134,10 @@
             "AVID",
             "LAUGHING SQUID",
             "NETFLIX",
-            "Spotify"
+            "Spotify",
+            "PUBLISHERS MARKETPLACE",
+            "JetBrains",
+            "HOVER"
         ],
         "Type": "Expense"
     },
@@ -108,13 +145,15 @@
         "Keywords": [
             "To Loan 0050",
             "To Share",
-            "HOME BANKING TRANSFER TO MSU FEDERAL"
+            "HOME BANKING TRANSFER TO MSU FEDERAL",
+            "From Share 0080"
         ],
         "Type": "Expense"
     },
     "Fees": {
         "Keywords": [
-            "Non UFCU ATM Fee"
+            "Non UFCU ATM Fee",
+            "Late Fee"
         ],
         "Type": "Expense"
     },
@@ -129,5 +168,10 @@
             "City of Austin"
         ],
         "Type": "Expense"
+    },
+    "Uncategorized": {
+        "Keywords": [
+            "THE NORTH DOOR"
+        ]
     }
 }
