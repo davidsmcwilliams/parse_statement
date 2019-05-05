@@ -48,7 +48,12 @@
             "QUIZNOS",
             "CHICK FIL A",
             "UNCLE NICKY S ITAL AUSTIN",
-            "BON BON BANH MI"
+            "BON BON BANH MI",
+            "PLOW BURGER",
+            "HOME SLICE",
+            "SWAN DIVE AUSTIN",
+            "ELEPHANT ROOM AUSTIN TX",
+            "PHO THAISON"
         ],
         "Type": "Expense"
     },
@@ -72,7 +77,8 @@
     },
     "Charity": {
         "Keywords": [
-            "PATREON"
+            "PATREON",
+            "Patreon"
         ],
         "Type": "Expense"
     },
@@ -81,13 +87,19 @@
             "PAYPAL",
             "YouTube",
             "UNIVERSITY CO-OP",
-            "WWW.NEWEGG.COM"
+            "WWW.NEWEGG.COM",
+            "VENMO",
+            "Blizzard Entertainment",
+            "Amazon",
+            "AMZN DIGITAL"
         ],
         "Type": "Expense"
     },
     "Coffee Shops": {
         "Keywords": [
-            "STARBUCKS"
+            "STARBUCKS",
+            "EPOCH",
+            "CAFFE MEDICI"
         ],
         "Type": "Expense"
     },
@@ -172,6 +184,25 @@
     "Uncategorized": {
         "Keywords": [
             "THE NORTH DOOR"
+        ]
+    },
+    "Tax Refund": {
+        "Keywords": [
+            "IRS  TREAS 310"
+        ]
+    },
+    "Conference Expenses": {
+        "Keywords": [
+            "KIMPTON",
+            "AUSTIN AIRPORT",
+            "FIG & PLUM KIO AUSTIN",
+            "MAMIS LA CUBANA",
+            "ATLMARKET"
+        ]
+    },
+    "Travel": {
+        "Keywords": [
+            "DELTA AIR"
         ]
     }
 }
