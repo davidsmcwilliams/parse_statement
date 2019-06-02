@@ -1,7 +1,8 @@
 {
     "Paycheck": {
         "Keywords": [
-            "UT Payroll"
+            "UT Payroll",
+            "UT PAYMENT"
         ],
         "Type": "Income"
     },
@@ -26,7 +27,9 @@
     "Groceries": {
         "Keywords": [
             "WALGREENS",
-            "H-E-B"
+            "H-E-B",
+            "SPECS",
+            "CVS/PHARMACY"
         ],
         "Type": "Expense"
     },
@@ -53,7 +56,16 @@
             "HOME SLICE",
             "SWAN DIVE AUSTIN",
             "ELEPHANT ROOM AUSTIN TX",
-            "PHO THAISON"
+            "PHO THAISON",
+            "EINSTEIN BROS BAGELS",
+            "W AUSTIN LIVING ROOM",
+            "VINO VINO",
+            "ELYSIUM",
+            "HUMPTY'S DUMPLINGS",
+            "The Austin Winery",
+            "MOONTOWER SALOON",
+            "VAQUERO TAQUERO",
+            "CHEESECAKE BARTON CREEK"
         ],
         "Type": "Expense"
     },
@@ -91,7 +103,9 @@
             "VENMO",
             "Blizzard Entertainment",
             "Amazon",
-            "AMZN DIGITAL"
+            "AMZN DIGITAL",
+            "Steamgames.com",
+            "STEAMGAMES.COM"
         ],
         "Type": "Expense"
     },
@@ -99,7 +113,8 @@
         "Keywords": [
             "STARBUCKS",
             "EPOCH",
-            "CAFFE MEDICI"
+            "CAFFE MEDICI",
+            "TEXAS COFFEE TRADERS"
         ],
         "Type": "Expense"
     },
