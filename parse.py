@@ -29,16 +29,16 @@ class VISATransaction:
     def __init__(self, transaction):
         self.date = transaction[0]
         self.description = transaction[1]
-        self.charges = transaction[2]
-        self.balance = transaction[6]
+        self.charges = transaction[2].replace("$","")
+        self.balance = transaction[6].replace("$","")
 
 
 class CheckingTransaction:
     def __init__(self, transaction):
         self.date = transaction[0]
         self.description = transaction[1]
-        self.charges = transaction[2]
-        self.balance = transaction[3]
+        self.charges = transaction[2].replace("$","")
+        self.balance = transaction[3].replace("$","")
 
 
 TRANSACTION_TYPES = {'VISA': VISATransaction, 'Checking': CheckingTransaction}
