@@ -3,6 +3,7 @@ import csv
 import json
 from decimal import Decimal
 
+
 def categorize(description, categories):
     for category in categories:
         for keyword in categories[category]["Keywords"]:
@@ -29,16 +30,16 @@ class VISATransaction:
     def __init__(self, transaction):
         self.date = transaction[0]
         self.description = transaction[1]
-        self.charges = transaction[2].replace("$","")
-        self.balance = transaction[5].replace("$","")
+        self.charges = transaction[2].replace("$", "")
+        self.balance = transaction[5].replace("$", "")
 
 
 class CheckingTransaction:
     def __init__(self, transaction):
         self.date = transaction[0]
         self.description = transaction[1]
-        self.charges = transaction[2].replace("$","")
-        self.balance = transaction[3].replace("$","")
+        self.charges = transaction[2].replace("$", "")
+        self.balance = transaction[3].replace("$", "")
 
 
 TRANSACTION_TYPES = {'VISA': VISATransaction, 'Checking': CheckingTransaction}
@@ -67,36 +68,22 @@ def parse():
             summary[category]['transactions'].append(line)
             summary[category]['total'] += amount
 
-            # try:
-            #     summary[category]['transactions'].append(transaction.description)
-            # except KeyError:
-            #     summary[category] = {'transactions': [], 'total': 0}
-            #     summary[category]['transactions'] = [transaction.description]
-            #
-            # try:
-            #     summary[category]['total'] += amount
-            # except KeyError:
-            #     summary[category]['total'] = amount
-
     # Remember any changes to the categories and keywords
     with open('categories.json', 'w') as categories_file:
         json.dump(categories, categories_file, indent=4)
-
-    print(summary)
 
     for category in summary:
         if summary[category]['total'] != 0:
             print("--- {0} ---\n".format(category))
             for transaction in summary[category]['transactions']:
                 print(transaction)
+            print("\n")
 
-    print ("------------------------\n\n")
+    print("------------------------\n\n")
 
     for category in summary:
         if summary[category]['total'] != 0:
             print('{:>30}: {:>10}'.format(category, summary[category]['total']))
-
-
 
 
 parse()
