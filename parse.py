@@ -65,6 +65,9 @@ def parse():
             category = categorize(transaction.description, categories)
             amount = Decimal(transaction.charges)
 
+            if category not in summary:
+                summary[category] = {'total': 0, 'transactions': []}
+
             summary[category]['transactions'].append(line)
             summary[category]['total'] += amount
 

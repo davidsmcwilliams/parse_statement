@@ -29,7 +29,11 @@
             "WALGREENS",
             "H-E-B",
             "SPECS",
-            "CVS/PHARMACY"
+            "CVS/PHARMACY",
+            "7-ELEVEN",
+            "SHELL OIL",
+            "CENTRAL MARKET",
+            "FRESH PLUS"
         ],
         "Type": "Expense"
     },
@@ -65,7 +69,28 @@
             "The Austin Winery",
             "MOONTOWER SALOON",
             "VAQUERO TAQUERO",
-            "CHEESECAKE BARTON CREEK"
+            "CHEESECAKE BARTON CREEK",
+            "GOURDOUGH",
+            "HALALBROS",
+            "TEJIS",
+            "BISTRO VONISH",
+            "ATX GYRO",
+            "THE VENUE",
+            "SNAP KITCHEN",
+            "POTBELLY",
+            "TEXARTS",
+            "BUC-EE'S",
+            "ANTONE'S",
+            "JUICELAND",
+            "HUT'S HAMBURGE",
+            "ALAMO MUELLER",
+            "KERBEY LANE",
+            "CLICKS BILLIARDS",
+            "TPA INTERNET SALES",
+            "CLAY PIT AUSTIN TX",
+            "COA PARKS & REC",
+            "WHATABURGER",
+            "FLIK CAFE DELL"
         ],
         "Type": "Expense"
     },
@@ -90,7 +115,8 @@
     "Charity": {
         "Keywords": [
             "PATREON",
-            "Patreon"
+            "Patreon",
+            "RAICES"
         ],
         "Type": "Expense"
     },
@@ -105,7 +131,11 @@
             "Amazon",
             "AMZN DIGITAL",
             "Steamgames.com",
-            "STEAMGAMES.COM"
+            "STEAMGAMES.COM",
+            "KENDRA SCOTT",
+            "AMAZON.COM",
+            "TARGET",
+            "GOODWILL"
         ],
         "Type": "Expense"
     },
@@ -114,7 +144,9 @@
             "STARBUCKS",
             "EPOCH",
             "CAFFE MEDICI",
-            "TEXAS COFFEE TRADERS"
+            "TEXAS COFFEE TRADERS",
+            "FLIGHTPATH COFFEEH",
+            "MERIT COFFEE"
         ],
         "Type": "Expense"
     },
@@ -126,13 +158,16 @@
     },
     "Rideshare": {
         "Keywords": [
-            "LYFT"
+            "LYFT",
+            "UBER"
         ],
         "Type": "Expense"
     },
     "Health/Hygiene": {
         "Keywords": [
-            "I CLIPS"
+            "I CLIPS",
+            "HYDE PARK GYM",
+            "UT HEALTH"
         ],
         "Type": "Expense"
     },
@@ -142,7 +177,8 @@
     },
     "Renter's Insurance": {
         "Keywords": [
-            "TRAVELERS INSUR"
+            "TRAVELERS INSUR",
+            "TRAVELERS TYPE: PER INSUR"
         ],
         "Type": "Expense"
     },
@@ -152,7 +188,8 @@
     },
     "Zipcar": {
         "Keywords": [
-            "ZIPCAR"
+            "ZIPCAR",
+            "Zipcar"
         ],
         "Type": "Expense"
     },
@@ -164,7 +201,10 @@
             "Spotify",
             "PUBLISHERS MARKETPLACE",
             "JetBrains",
-            "HOVER"
+            "HOVER",
+            "ZOOM.US",
+            "HBO NOW",
+            "Avid"
         ],
         "Type": "Expense"
     },
@@ -186,7 +226,8 @@
     },
     "Cash": {
         "Keywords": [
-            "ATM Withdrawal"
+            "ATM Withdrawal",
+            "Cash Withdrawal"
         ],
         "Type": "Expense"
     },
@@ -198,13 +239,16 @@
     },
     "Uncategorized": {
         "Keywords": [
-            "THE NORTH DOOR"
-        ]
+            "THE NORTH DOOR",
+            "THE PEDDLER BICYCLE"
+        ],
+        "Type": "Expense"
     },
     "Tax Refund": {
         "Keywords": [
             "IRS  TREAS 310"
-        ]
+        ],
+        "Type": "Income"
     },
     "Conference Expenses": {
         "Keywords": [
@@ -213,11 +257,54 @@
             "FIG & PLUM KIO AUSTIN",
             "MAMIS LA CUBANA",
             "ATLMARKET"
-        ]
+        ],
+        "Type": "Expense"
     },
     "Travel": {
         "Keywords": [
-            "DELTA AIR"
+            "DELTA AIR",
+            "SOUTHWES",
+            "HOTELS.COM"
+        ],
+        "Type": "Expense"
+    },
+    "Creative Expenses": {
+        "Keywords": [
+            "AMZN Mktp US*MH3U64T21",
+            "IN *LAST ROCK STAR LLC",
+            "FEDEX",
+            "BEFUNKY",
+            "WIX.COM"
+        ],
+        "Type": "Expense"
+    },
+    "Gig Income": {
+        "Keywords": [
+            "H.E.B. GROCERY : EPOSPYMNTS"
+        ]
+    },
+    "PR Trip 2019": {
+        "Keywords": [
+            "DREAMCATCHER HOUSE",
+            "MAMACITAS ENTERPRISE CULEBRA",
+            "CULEBRA",
+            "KAYAKING PUERTO RI",
+            "RED MANGO VIEGO SJ",
+            "RED MANGO VIEJO SJ",
+            "LA FONDA DEL JIBARIT",
+            "GUI-KEN & GRILL",
+            "THE MEZZANINE SAN JUAN",
+            "LA FACTORIA SAN JUAN",
+            "SAN JUAN-EL MORRO",
+            "PORFERRY",
+            "AIR FLAMENCO",
+            "SJU AIRPORT",
+            "URBAN MARKET T1B FLL FORT LAUDERDA"
+        ]
+    },
+    "Writing Income": {
+        "Keywords": [
+            "AMAZON.CO1356153 : EDI PYMNTS"
         ]
     }
 }
