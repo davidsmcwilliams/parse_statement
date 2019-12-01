@@ -90,7 +90,14 @@
             "CLAY PIT AUSTIN TX",
             "COA PARKS & REC",
             "WHATABURGER",
-            "FLIK CAFE DELL"
+            "FLIK CAFE DELL",
+            "ROPPOLO'S",
+            "FOOD TRUCK AUSTIN",
+            "TACODELI",
+            "THE DRAUGHT HOUSE",
+            "TSO CHINESE DELIVERY",
+            "QUACKS 43RD STREET",
+            "G'RAJ MAHAL CAFE"
         ],
         "Type": "Expense"
     },
@@ -135,7 +142,10 @@
             "KENDRA SCOTT",
             "AMAZON.COM",
             "TARGET",
-            "GOODWILL"
+            "GOODWILL",
+            "WARGAMING",
+            "Prime Video",
+            "HAD*HARRY & DAVID"
         ],
         "Type": "Expense"
     },
@@ -204,7 +214,8 @@
             "HOVER",
             "ZOOM.US",
             "HBO NOW",
-            "Avid"
+            "Avid",
+            "QUERYTRACKER.NET"
         ],
         "Type": "Expense"
     },
@@ -213,7 +224,8 @@
             "To Loan 0050",
             "To Share",
             "HOME BANKING TRANSFER TO MSU FEDERAL",
-            "From Share 0080"
+            "From Share 0080",
+            "Deposit"
         ],
         "Type": "Expense"
     },
@@ -274,7 +286,8 @@
             "IN *LAST ROCK STAR LLC",
             "FEDEX",
             "BEFUNKY",
-            "WIX.COM"
+            "WIX.COM",
+            "PRINTWITHME"
         ],
         "Type": "Expense"
     },
