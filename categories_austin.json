@@ -1,0 +1,330 @@
+{
+    "Paycheck": {
+        "Keywords": [
+            "UT Payroll",
+            "UT PAYMENT"
+        ],
+        "Type": "Income"
+    },
+    "Rent": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Water": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Electricty": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Internet": {
+        "Keywords": [
+            "ATT*BILL PAYMENT"
+        ],
+        "Type": "Expense"
+    },
+    "Groceries": {
+        "Keywords": [
+            "WALGREENS",
+            "H-E-B",
+            "SPECS",
+            "CVS/PHARMACY",
+            "7-ELEVEN",
+            "SHELL OIL",
+            "CENTRAL MARKET",
+            "FRESH PLUS"
+        ],
+        "Type": "Expense"
+    },
+    "Going Out": {
+        "Keywords": [
+            "ALAMO S LAMAR",
+            "SMOOTHIE KING",
+            "ONE-2-ONE",
+            "SONG LA",
+            "WHICH WICH",
+            "Drink.Well",
+            "WORKHORSE BAR",
+            "MANDOLAS",
+            "UT H&F",
+            "ARAMARK CAMPUS STORE AUSTIN TX",
+            "SAO PAULOS LLC AUSTIN TX",
+            "CHIPOTLE",
+            "TAQUERIA JEFES",
+            "QUIZNOS",
+            "CHICK FIL A",
+            "UNCLE NICKY S ITAL AUSTIN",
+            "BON BON BANH MI",
+            "PLOW BURGER",
+            "HOME SLICE",
+            "SWAN DIVE AUSTIN",
+            "ELEPHANT ROOM AUSTIN TX",
+            "PHO THAISON",
+            "EINSTEIN BROS BAGELS",
+            "W AUSTIN LIVING ROOM",
+            "VINO VINO",
+            "ELYSIUM",
+            "HUMPTY'S DUMPLINGS",
+            "The Austin Winery",
+            "MOONTOWER SALOON",
+            "VAQUERO TAQUERO",
+            "CHEESECAKE BARTON CREEK",
+            "GOURDOUGH",
+            "HALALBROS",
+            "TEJIS",
+            "BISTRO VONISH",
+            "ATX GYRO",
+            "THE VENUE",
+            "SNAP KITCHEN",
+            "POTBELLY",
+            "TEXARTS",
+            "BUC-EE'S",
+            "ANTONE'S",
+            "JUICELAND",
+            "HUT'S HAMBURGE",
+            "ALAMO MUELLER",
+            "KERBEY LANE",
+            "CLICKS BILLIARDS",
+            "TPA INTERNET SALES",
+            "CLAY PIT AUSTIN TX",
+            "COA PARKS & REC",
+            "WHATABURGER",
+            "FLIK CAFE DELL",
+            "ROPPOLO'S",
+            "FOOD TRUCK AUSTIN",
+            "TACODELI",
+            "THE DRAUGHT HOUSE",
+            "TSO CHINESE DELIVERY",
+            "QUACKS 43RD STREET",
+            "G'RAJ MAHAL CAFE"
+        ],
+        "Type": "Expense"
+    },
+    "Laundry": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "NYC Savings": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Homespruce": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Retirement": {
+        "Keywords": [
+            "VANGUARD"
+        ],
+        "Type": "Expense"
+    },
+    "Charity": {
+        "Keywords": [
+            "PATREON",
+            "Patreon",
+            "RAICES"
+        ],
+        "Type": "Expense"
+    },
+    "Burn Money": {
+        "Keywords": [
+            "PAYPAL",
+            "YouTube",
+            "UNIVERSITY CO-OP",
+            "WWW.NEWEGG.COM",
+            "VENMO",
+            "Blizzard Entertainment",
+            "Amazon",
+            "AMZN DIGITAL",
+            "Steamgames.com",
+            "STEAMGAMES.COM",
+            "KENDRA SCOTT",
+            "AMAZON.COM",
+            "TARGET",
+            "GOODWILL",
+            "WARGAMING",
+            "Prime Video",
+            "HAD*HARRY & DAVID"
+        ],
+        "Type": "Expense"
+    },
+    "Coffee Shops": {
+        "Keywords": [
+            "STARBUCKS",
+            "EPOCH",
+            "CAFFE MEDICI",
+            "TEXAS COFFEE TRADERS",
+            "FLIGHTPATH COFFEEH",
+            "MERIT COFFEE"
+        ],
+        "Type": "Expense"
+    },
+    "Phone": {
+        "Keywords": [
+            "CREDO"
+        ],
+        "Type": "Expense"
+    },
+    "Rideshare": {
+        "Keywords": [
+            "LYFT",
+            "UBER"
+        ],
+        "Type": "Expense"
+    },
+    "Health/Hygiene": {
+        "Keywords": [
+            "I CLIPS",
+            "HYDE PARK GYM",
+            "UT HEALTH"
+        ],
+        "Type": "Expense"
+    },
+    "Savings": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Renter's Insurance": {
+        "Keywords": [
+            "TRAVELERS INSUR",
+            "TRAVELERS TYPE: PER INSUR"
+        ],
+        "Type": "Expense"
+    },
+    "Emergency Fund": {
+        "Keywords": [],
+        "Type": "Expense"
+    },
+    "Zipcar": {
+        "Keywords": [
+            "ZIPCAR",
+            "Zipcar"
+        ],
+        "Type": "Expense"
+    },
+    "Subscriptions/Licenses": {
+        "Keywords": [
+            "AVID",
+            "LAUGHING SQUID",
+            "NETFLIX",
+            "Spotify",
+            "PUBLISHERS MARKETPLACE",
+            "JetBrains",
+            "HOVER",
+            "ZOOM.US",
+            "HBO NOW",
+            "Avid",
+            "QUERYTRACKER.NET"
+        ],
+        "Type": "Expense"
+    },
+    "Transfers": {
+        "Keywords": [
+            "To Loan 0050",
+            "To Share",
+            "HOME BANKING TRANSFER TO MSU FEDERAL",
+            "From Share 0080",
+            "Deposit",
+            "WIRE",
+            "From Share"
+        ],
+        "Type": "Expense"
+    },
+    "Fees": {
+        "Keywords": [
+            "Non UFCU ATM Fee",
+            "Late Fee"
+        ],
+        "Type": "Expense"
+    },
+    "Cash": {
+        "Keywords": [
+            "ATM Withdrawal",
+            "Cash Withdrawal"
+        ],
+        "Type": "Expense"
+    },
+    "Electricity": {
+        "Keywords": [
+            "City of Austin"
+        ],
+        "Type": "Expense"
+    },
+    "Uncategorized": {
+        "Keywords": [
+            "THE NORTH DOOR",
+            "THE PEDDLER BICYCLE"
+        ],
+        "Type": "Expense"
+    },
+    "Tax Refund": {
+        "Keywords": [
+            "IRS  TREAS 310"
+        ],
+        "Type": "Income"
+    },
+    "Conference Expenses": {
+        "Keywords": [
+            "KIMPTON",
+            "AUSTIN AIRPORT",
+            "FIG & PLUM KIO AUSTIN",
+            "MAMIS LA CUBANA",
+            "ATLMARKET"
+        ],
+        "Type": "Expense"
+    },
+    "Travel": {
+        "Keywords": [
+            "DELTA AIR",
+            "SOUTHWES",
+            "HOTELS.COM"
+        ],
+        "Type": "Expense"
+    },
+    "Creative Expenses": {
+        "Keywords": [
+            "AMZN Mktp US*MH3U64T21",
+            "IN *LAST ROCK STAR LLC",
+            "FEDEX",
+            "BEFUNKY",
+            "WIX.COM",
+            "PRINTWITHME"
+        ],
+        "Type": "Expense"
+    },
+    "Gig Income": {
+        "Keywords": [
+            "H.E.B. GROCERY : EPOSPYMNTS"
+        ]
+    },
+    "PR Trip 2019": {
+        "Keywords": [
+            "DREAMCATCHER HOUSE",
+            "MAMACITAS ENTERPRISE CULEBRA",
+            "CULEBRA",
+            "KAYAKING PUERTO RI",
+            "RED MANGO VIEGO SJ",
+            "RED MANGO VIEJO SJ",
+            "LA FONDA DEL JIBARIT",
+            "GUI-KEN & GRILL",
+            "THE MEZZANINE SAN JUAN",
+            "LA FACTORIA SAN JUAN",
+            "SAN JUAN-EL MORRO",
+            "PORFERRY",
+            "AIR FLAMENCO",
+            "SJU AIRPORT",
+            "URBAN MARKET T1B FLL FORT LAUDERDA"
+        ]
+    },
+    "Writing Income": {
+        "Keywords": [
+            "AMAZON.CO1356153 : EDI PYMNTS"
+        ]
+    },
+    "Bank Fees": {
+        "Keywords": [
+            "WIRE FEE"
+        ]
+    }
+}
