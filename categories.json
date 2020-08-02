@@ -4,7 +4,8 @@
             "To Loan",
             "To Share",
             "WIRE",
-            "From Share"
+            "From Share",
+            "HOME BANKING TRANSFER"
         ]
     },
     "Income": {
@@ -21,13 +22,15 @@
             "Patreon",
             "HOVER",
             "ZIPCAR",
-            "BEFUNKY.COM"
+            "BEFUNKY.COM",
+            "PATREON"
         ]
     },
     "Bank Fees": {
         "Keywords": [
             "Non UFCU ATM Fee",
-            "WIRE FEE"
+            "WIRE FEE",
+            "Late Fee"
         ]
     },
     "Cash": {
@@ -37,7 +40,8 @@
     },
     "Phone": {
         "Keywords": [
-            "CREDO ACH"
+            "CREDO ACH",
+            "CREDO MOBILE"
         ]
     },
     "Renter's Insurance": {
@@ -47,7 +51,9 @@
     },
     "Electricity": {
         "Keywords": [
-            "City of Austin T"
+            "City of Austin T",
+            "FSI*CONED BILL PAYMENT",
+            "CON ED OF NY TYPE: INTELL CK"
         ]
     },
     "Paypal/Venmo": {
@@ -62,7 +68,11 @@
             "DUANE READE",
             "RITE AID STORE",
             "ASSOCIATED ASTORIA",
-            "BIMBO BAKERIES"
+            "BIMBO BAKERIES",
+            "TRADER JOE'S",
+            "CYPRIANA LIQUOR",
+            "AAN DELI AND GROCERY ASTORIA NY",
+            "GEORGE'S DELI INC. ASTORIA NY"
         ]
     },
     "Going Out": {
@@ -80,7 +90,23 @@
             "GRAND AVENUE PIZZA",
             "SLICE",
             "SHUYA CAFE DE RAMEN",
-            "L & H BAGEL COR"
+            "L & H BAGEL COR",
+            "Firehook Dupont Circle",
+            "HOOK HALL - GEORGI WASHINGTON DC",
+            "PURPLE PATCH RESTAURANT WASHINGTON DC",
+            "BROOKLYN B* DITMARS BK",
+            "POSTMATES TIP",
+            "BROOKLYN  B* BROADWAY B",
+            "BROOKLYN B* BROADWAY B",
+            "POSTMATES",
+            "BROOKLEN B* 30TH AVENU",
+            "BROOKLYN B* 30TH AVENU",
+            "TAMASHII ASTORIA",
+            "GYRO WORLD",
+            "DELIVERY.COM",
+            "THE SHADY LADY",
+            "NONNAS 197",
+            "Orale"
         ]
     },
     "Creative Expenses": {
@@ -101,7 +127,17 @@
             "NEWEGG INC",
             "99 CENT AND UP DEPO",
             "DITMARS THRIFT SHOP",
-            "M&L GOLDEN CORP"
+            "M&L GOLDEN CORP",
+            "STEAMGAMES.COM",
+            "Prime Video",
+            "Blizzard Entertainment",
+            "ROLL20.NET",
+            "USPS.COM",
+            "JACKBOX GAMES",
+            "EPC*EPIC GAMES STORE",
+            "HARRY & DAVID",
+            "AMAZON.COM",
+            "DRIVETHRU 706-449-0777"
         ]
     },
     "Travel": {
@@ -131,12 +167,23 @@
     },
     "Charity": {
         "Keywords": [
-            "RAICES"
+            "RAICES",
+            "ACLU FDN"
         ]
     },
     "Moving": {
         "Keywords": [
             "PURPLE HEART MOVING GRO"
+        ]
+    },
+    "Internet": {
+        "Keywords": [
+            "VERIZON TYPE: PAYMENTREC"
+        ]
+    },
+    "COVID Relief": {
+        "Keywords": [
+            "TREAS 310"
         ]
     }
 }
