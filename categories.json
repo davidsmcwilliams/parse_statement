@@ -30,7 +30,8 @@
         "Keywords": [
             "Non UFCU ATM Fee",
             "WIRE FEE",
-            "Late Fee"
+            "Late Fee",
+            "Credit Card Fee"
         ]
     },
     "Cash": {
@@ -106,12 +107,16 @@
             "DELIVERY.COM",
             "THE SHADY LADY",
             "NONNAS 197",
-            "Orale"
+            "Orale",
+            "THE MEATBALL SHOP",
+            "OFF THE HOOK ASTORIA"
         ]
     },
     "Creative Expenses": {
         "Keywords": [
-            "ASTORIA SOUNDWORKS"
+            "ASTORIA SOUNDWORKS",
+            "WIX*Wix.Com",
+            "WIX.COM"
         ]
     },
     "Burn Money": {
@@ -137,7 +142,8 @@
             "EPC*EPIC GAMES STORE",
             "HARRY & DAVID",
             "AMAZON.COM",
-            "DRIVETHRU 706-449-0777"
+            "DRIVETHRU 706-449-0777",
+            "STAS picture hanging"
         ]
     },
     "Travel": {
