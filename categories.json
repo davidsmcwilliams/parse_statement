@@ -23,7 +23,8 @@
             "HOVER",
             "ZIPCAR",
             "BEFUNKY.COM",
-            "PATREON"
+            "PATREON",
+            "Avid Technology"
         ]
     },
     "Bank Fees": {
@@ -73,7 +74,9 @@
             "TRADER JOE'S",
             "CYPRIANA LIQUOR",
             "AAN DELI AND GROCERY ASTORIA NY",
-            "GEORGE'S DELI INC. ASTORIA NY"
+            "GEORGE'S DELI INC. ASTORIA NY",
+            "WINE ART AND LIQUOR",
+            "GEORGE'S DELI"
         ]
     },
     "Going Out": {
@@ -109,7 +112,13 @@
             "NONNAS 197",
             "Orale",
             "THE MEATBALL SHOP",
-            "OFF THE HOOK ASTORIA"
+            "OFF THE HOOK ASTORIA",
+            "NEW YORK BAKERY CA ASTORIA NY",
+            "KASHKAVAL GARDEN",
+            "YELP-GRUBHUBNONNAZPIZ",
+            "THE TRESTLE",
+            "CHIP NYC",
+            "AMYLOS TAVERNA"
         ]
     },
     "Creative Expenses": {
@@ -143,7 +152,11 @@
             "HARRY & DAVID",
             "AMAZON.COM",
             "DRIVETHRU 706-449-0777",
-            "STAS picture hanging"
+            "STAS picture hanging",
+            "humblebundle.com",
+            "HTTPSITCH.IO",
+            "Amazon Prime",
+            "NYS DEPARTMENT OF MOTOR"
         ]
     },
     "Travel": {
@@ -190,6 +203,12 @@
     "COVID Relief": {
         "Keywords": [
             "TREAS 310"
+        ]
+    },
+    "Health": {
+        "Keywords": [
+            "QUEST DIAGNOSTICS",
+            "NEW YORK PRESBYTERIAN M"
         ]
     }
 }
