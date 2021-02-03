@@ -43,7 +43,8 @@
     "Phone": {
         "Keywords": [
             "CREDO ACH",
-            "CREDO MOBILE"
+            "CREDO MOBILE",
+            "Google Fi"
         ]
     },
     "Renter's Insurance": {
@@ -76,7 +77,9 @@
             "AAN DELI AND GROCERY ASTORIA NY",
             "GEORGE'S DELI INC. ASTORIA NY",
             "WINE ART AND LIQUOR",
-            "GEORGE'S DELI"
+            "GEORGE'S DELI",
+            "ORANGE BLOSSOM",
+            "RITE AID"
         ]
     },
     "Going Out": {
@@ -118,14 +121,25 @@
             "YELP-GRUBHUBNONNAZPIZ",
             "THE TRESTLE",
             "CHIP NYC",
-            "AMYLOS TAVERNA"
+            "AMYLOS TAVERNA",
+            "DEJA VU ASTORIA NY",
+            "FOGODECHAO",
+            "KRISPY KREME",
+            "DINOS PIZZ",
+            "IL FORNAI DUE ASTORIA",
+            "IL FORNAIO",
+            "BURGER CLU",
+            "GEORGESDELI",
+            "LEVAIN BAKERY",
+            "DRUNKEN CHICKEN ASTORIA"
         ]
     },
     "Creative Expenses": {
         "Keywords": [
             "ASTORIA SOUNDWORKS",
             "WIX*Wix.Com",
-            "WIX.COM"
+            "WIX.COM",
+            "QUERYTRACKER"
         ]
     },
     "Burn Money": {
@@ -156,7 +170,20 @@
             "humblebundle.com",
             "HTTPSITCH.IO",
             "Amazon Prime",
-            "NYS DEPARTMENT OF MOTOR"
+            "NYS DEPARTMENT OF MOTOR",
+            "GOG sp. z o.o.",
+            "Steam Purchase",
+            "James Avery",
+            "SHUTTERFLY",
+            "WORLDBUILDERS",
+            "LOCKWOOD STYLE ASTORIA",
+            "JEWELS_OF BUDDHA",
+            "THE UPS STORE",
+            "LAMMES CANDIES",
+            "EB HUMAN RESOURCES TH",
+            "MACYS .COM",
+            "USPS PO",
+            "Brooks Brothers"
         ]
     },
     "Travel": {
@@ -171,17 +198,20 @@
             "THINK COFFEE",
             "BISCOTTI",
             "STAR CAFE AU LAIT",
-            "STARBUCKS STORE"
+            "STARBUCKS STORE",
+            "THE BARN COFFEE SHO Queens"
         ]
     },
     "Homespruce": {
         "Keywords": [
-            "STRAUS PAINT AND HARDWA"
+            "STRAUS PAINT AND HARDWA",
+            "STAS USA"
         ]
     },
     "Transportation": {
         "Keywords": [
-            "MTA*METROCARD MACHINE"
+            "MTA*METROCARD MACHINE",
+            "NYC TAXI"
         ]
     },
     "Charity": {
@@ -208,7 +238,13 @@
     "Health": {
         "Keywords": [
             "QUEST DIAGNOSTICS",
-            "NEW YORK PRESBYTERIAN M"
+            "NEW YORK PRESBYTERIAN M",
+            "NEW YORK PRESBYTERIAN"
+        ]
+    },
+    "Retirement": {
+        "Keywords": [
+            "VANGUARD BUY"
         ]
     }
 }
