@@ -24,7 +24,9 @@
             "ZIPCAR",
             "BEFUNKY.COM",
             "PATREON",
-            "Avid Technology"
+            "Avid Technology",
+            "Netflix.com",
+            "LOGMEIN*LastPass"
         ]
     },
     "Bank Fees": {
@@ -44,7 +46,8 @@
         "Keywords": [
             "CREDO ACH",
             "CREDO MOBILE",
-            "Google Fi"
+            "Google Fi",
+            "GOOGLE FI"
         ]
     },
     "Renter's Insurance": {
@@ -79,7 +82,9 @@
             "WINE ART AND LIQUOR",
             "GEORGE'S DELI",
             "ORANGE BLOSSOM",
-            "RITE AID"
+            "RITE AID",
+            "ABSOLUTE WINE",
+            "UNITED BROTHERS FRUIT M ASTORIA"
         ]
     },
     "Going Out": {
@@ -131,7 +136,20 @@
             "BURGER CLU",
             "GEORGESDELI",
             "LEVAIN BAKERY",
-            "DRUNKEN CHICKEN ASTORIA"
+            "DRUNKEN CHICKEN ASTORIA",
+            "VIA TRENTA OSTE",
+            "TACOSTORIA",
+            "THESHADYLADY",
+            "ASTORIA PIZZA FACTORY",
+            "BELLUCCI PIZZA",
+            "MOMS AND HALSEYS ASTORIA",
+            "THE LAST WORD",
+            "QUEEN'S ROOM",
+            "DAVE & BUSTER'S",
+            "DD/BR",
+            "POLPETTE 71",
+            "EATALY",
+            "AWESOMESAU"
         ]
     },
     "Creative Expenses": {
@@ -139,7 +157,8 @@
             "ASTORIA SOUNDWORKS",
             "WIX*Wix.Com",
             "WIX.COM",
-            "QUERYTRACKER"
+            "QUERYTRACKER",
+            "GOTHAM WRITERS"
         ]
     },
     "Burn Money": {
@@ -183,12 +202,23 @@
             "EB HUMAN RESOURCES TH",
             "MACYS .COM",
             "USPS PO",
-            "Brooks Brothers"
+            "Brooks Brothers",
+            "LADUREE",
+            "JEWELS BUDDHA",
+            "KENDRA SCOTT",
+            "SALTY LEMON",
+            "LOCKWOOD PAPER ASTORIA",
+            "Etsy.com",
+            "EverybodyHouse",
+            "AMAZON MEDIA",
+            "STEAM PURCHASE",
+            "VISTAPR"
         ]
     },
     "Travel": {
         "Keywords": [
-            "WASHINGTON DELUXE BUS U"
+            "WASHINGTON DELUXE BUS U",
+            "TRIPCHARGES"
         ]
     },
     "Coffee Shops": {
@@ -199,7 +229,8 @@
             "BISCOTTI",
             "STAR CAFE AU LAIT",
             "STARBUCKS STORE",
-            "THE BARN COFFEE SHO Queens"
+            "THE BARN COFFEE SHO Queens",
+            "BEST BAGEL & COFFEE"
         ]
     },
     "Homespruce": {
@@ -245,6 +276,11 @@
     "Retirement": {
         "Keywords": [
             "VANGUARD BUY"
+        ]
+    },
+    "Taxes": {
+        "Keywords": [
+            "Tax Paymnt"
         ]
     }
 }
