@@ -26,7 +26,12 @@
             "PATREON",
             "Avid Technology",
             "Netflix.com",
-            "LOGMEIN*LastPass"
+            "LOGMEIN*LastPass",
+            "Bumble",
+            "gotinder.com",
+            "NYTIMES",
+            "NYTimes",
+            "Disney PLUS"
         ]
     },
     "Bank Fees": {
@@ -84,7 +89,10 @@
             "ORANGE BLOSSOM",
             "RITE AID",
             "ABSOLUTE WINE",
-            "UNITED BROTHERS FRUIT M ASTORIA"
+            "UNITED BROTHERS FRUIT M ASTORIA",
+            "H-E-B",
+            "EVERGREEN LIQUORS",
+            "WHOLEFDS"
         ]
     },
     "Going Out": {
@@ -149,7 +157,17 @@
             "DD/BR",
             "POLPETTE 71",
             "EATALY",
-            "AWESOMESAU"
+            "AWESOMESAU",
+            "UNCLE NICKY S",
+            "THE DAVENPORT",
+            "TACA CABANA",
+            "TACO CABANA",
+            "THUNDERCLOUD Austin TX",
+            "MADAM MAMS",
+            "FIVE GUYS",
+            "SLASH RUN",
+            "BELLUCI PIZZA",
+            "SEAMLSSBROADWAYCHINAS"
         ]
     },
     "Creative Expenses": {
@@ -212,13 +230,21 @@
             "EverybodyHouse",
             "AMAZON MEDIA",
             "STEAM PURCHASE",
-            "VISTAPR"
+            "VISTAPR",
+            "STRAIT MUSIC COMPANY",
+            "SIP WHISKEY",
+            "THRIFTY",
+            "TARGET",
+            "AMZN Digital ",
+            "AMZN Digital",
+            "FEDEX"
         ]
     },
     "Travel": {
         "Keywords": [
             "WASHINGTON DELUXE BUS U",
-            "TRIPCHARGES"
+            "TRIPCHARGES",
+            "AMTRAK.COM"
         ]
     },
     "Coffee Shops": {
@@ -230,7 +256,8 @@
             "STAR CAFE AU LAIT",
             "STARBUCKS STORE",
             "THE BARN COFFEE SHO Queens",
-            "BEST BAGEL & COFFEE"
+            "BEST BAGEL & COFFEE",
+            "THE FLIGHTPATH"
         ]
     },
     "Homespruce": {
@@ -242,7 +269,11 @@
     "Transportation": {
         "Keywords": [
             "MTA*METROCARD MACHINE",
-            "NYC TAXI"
+            "NYC TAXI",
+            "PARKING",
+            "BP#1312",
+            "METRO",
+            "LYFT"
         ]
     },
     "Charity": {
@@ -258,7 +289,8 @@
     },
     "Internet": {
         "Keywords": [
-            "VERIZON TYPE: PAYMENTREC"
+            "VERIZON TYPE: PAYMENTREC",
+            "ASTOUND POWERED BY RCN"
         ]
     },
     "COVID Relief": {
@@ -270,7 +302,9 @@
         "Keywords": [
             "QUEST DIAGNOSTICS",
             "NEW YORK PRESBYTERIAN M",
-            "NEW YORK PRESBYTERIAN"
+            "NEW YORK PRESBYTERIAN",
+            "STUDIO TIM INC",
+            "CEREBRAL"
         ]
     },
     "Retirement": {
@@ -281,6 +315,11 @@
     "Taxes": {
         "Keywords": [
             "Tax Paymnt"
+        ]
+    },
+    "Loan from Parents": {
+        "Keywords": [
+            "KATHLEEN M MCWILLIAMS"
         ]
     }
 }
