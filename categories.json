@@ -10,7 +10,8 @@
     },
     "Income": {
         "Keywords": [
-            "UT Payroll"
+            "UT Payroll",
+            "PAYROLL"
         ]
     },
     "Subscriptions/Licenses": {
@@ -31,7 +32,14 @@
             "gotinder.com",
             "NYTIMES",
             "NYTimes",
-            "Disney PLUS"
+            "Disney PLUS",
+            "GoTo LastPass",
+            "DisneyPLUS",
+            "LUCIDCHART",
+            "Disney Plus",
+            "PARAMOUNT+",
+            "HBOMAX",
+            "Dropbox"
         ]
     },
     "Bank Fees": {
@@ -44,7 +52,10 @@
     },
     "Cash": {
         "Keywords": [
-            "ATM Withdrawal"
+            "ATM Withdrawal",
+            "275314",
+            "888431",
+            "Woodside 50-24"
         ]
     },
     "Phone": {
@@ -52,7 +63,8 @@
             "CREDO ACH",
             "CREDO MOBILE",
             "Google Fi",
-            "GOOGLE FI"
+            "GOOGLE FI",
+            "GOOGLE *FI"
         ]
     },
     "Renter's Insurance": {
@@ -92,7 +104,12 @@
             "UNITED BROTHERS FRUIT M ASTORIA",
             "H-E-B",
             "EVERGREEN LIQUORS",
-            "WHOLEFDS"
+            "WHOLEFDS",
+            "SPECS",
+            "BERRY FRESH FARM",
+            "TROPICAL DELI & GROCERY ASTORIA",
+            "FOOD BAZAAR",
+            "STEINWAY WINES & LIQUOR"
         ]
     },
     "Going Out": {
@@ -167,7 +184,50 @@
             "FIVE GUYS",
             "SLASH RUN",
             "BELLUCI PIZZA",
-            "SEAMLSSBROADWAYCHINAS"
+            "SEAMLSSBROADWAYCHINAS",
+            "New York Bakery Ca",
+            "GAMESTORIA",
+            "SEKUND SUN",
+            "SEKEND SUN",
+            "7-ELEVEN",
+            "AINSLIE BROOKLYN",
+            "EB IN PERSON VALENTIN",
+            "HUTCH ASTORIA",
+            "MIKEL ASTORIA",
+            "TAJ II LOUNGE NEW YORK",
+            "AUSTIN'S PARK N PIZZA",
+            "UMI Restaurant",
+            "KRAVE IT",
+            "Gonzalez Y Gonzalez",
+            "HARLEM SHAKE",
+            "BROADWAY CAFE",
+            "UNCLE DRINK",
+            "NAPOLIPIZZAPASTA",
+            "SWEET AFTON",
+            "FIFTH HAMMER",
+            "BAGELS AND BREWS ASTORIA",
+            "SWEET HABIT INC",
+            "AMPLE HILLS CREAME ASTORIA",
+            "Colada Shop Wharf",
+            "Slice - Astoria",
+            "MULTIPLEX CINEMAS",
+            "TACO BELL",
+            "SOLID STATE WOODSIDE",
+            "CAFE 52 WOODSIDE",
+            "CAFE DE COLOMBIA",
+            "CHIP CITY",
+            "ARTISAN MARKET",
+            "SACTOWN SHOP",
+            "BURGERS AND BREWS",
+            "SWAYCAFE LONG ISLAND",
+            "HEART OF GOLD ASTORIA",
+            "POCHANATHAI",
+            "SeaQuake Brewing Crescent City",
+            "BROTHERS FAMOUS DEL",
+            "TELECHARGE SVCE",
+            "GOTHAM ARCHERY",
+            "Olivers",
+            "Selo Astoria"
         ]
     },
     "Creative Expenses": {
@@ -233,18 +293,46 @@
             "VISTAPR",
             "STRAIT MUSIC COMPANY",
             "SIP WHISKEY",
-            "THRIFTY",
             "TARGET",
             "AMZN Digital ",
             "AMZN Digital",
-            "FEDEX"
+            "FEDEX",
+            "BRIOBRAVO",
+            "DUVAL MARKET",
+            "Check Card: GOOGLE",
+            "WAYFAIR",
+            "ATS INC",
+            "VERO TECHNOLOGIES",
+            "ASHLEYFURNITUREHOMESTOR",
+            "KUHL CLOTHING",
+            "Nike.com",
+            "AMZN MKTP",
+            "TRUECLASSICTEES",
+            "ZAPPOS",
+            "POWELL'S BURNSIDE",
+            "STARTPLAYING",
+            "MMA ADMISSIONS",
+            "KAISER CAT CINEMA",
+            "Blizzard US",
+            "LEHMAN CTR PERF ARTS",
+            "DNDBEYOND.CODDB",
+            "PARTY CITY"
         ]
     },
     "Travel": {
         "Keywords": [
             "WASHINGTON DELUXE BUS U",
             "TRIPCHARGES",
-            "AMTRAK.COM"
+            "AMTRAK.COM",
+            "AUSTIN AIRPORT-F&B",
+            "THRIFTY",
+            "AMTRAK",
+            "ALASKA AIR",
+            "TRAVEL + WELL SANTA ROSA",
+            "AIRBNB",
+            "SOUTHWES",
+            "NEWARK INTERNATIONAL",
+            "AERLING"
         ]
     },
     "Coffee Shops": {
@@ -290,7 +378,8 @@
     "Internet": {
         "Keywords": [
             "VERIZON TYPE: PAYMENTREC",
-            "ASTOUND POWERED BY RCN"
+            "ASTOUND POWERED BY RCN",
+            "SPECTRUM"
         ]
     },
     "COVID Relief": {
@@ -304,7 +393,8 @@
             "NEW YORK PRESBYTERIAN M",
             "NEW YORK PRESBYTERIAN",
             "STUDIO TIM INC",
-            "CEREBRAL"
+            "CEREBRAL",
+            "SUMMITCITYMD"
         ]
     },
     "Retirement": {
@@ -320,6 +410,16 @@
     "Loan from Parents": {
         "Keywords": [
             "KATHLEEN M MCWILLIAMS"
+        ]
+    },
+    "Laundry": {
+        "Keywords": [
+            "GREEN SPIN LAUNDRY"
+        ]
+    },
+    "Tax Refund": {
+        "Keywords": [
+            "NYSTTAXRFD"
         ]
     }
 }
